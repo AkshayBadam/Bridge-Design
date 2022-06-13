@@ -1,0 +1,4 @@
+﻿interface AnimalSound
+{
+    void sound();
+}
